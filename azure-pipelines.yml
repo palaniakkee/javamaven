@@ -5,7 +5,6 @@
 
 trigger:
 - main
-
 stages:
 – stage: Build
   jobs:
